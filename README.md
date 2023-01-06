@@ -7,10 +7,11 @@
 - ⚡ Find country for 20k coordinate pairs per second.
 
 ## Credits / Datasource:
-[geo-countries](https://github.com/datasets/geo-countries)
-[Natural Earth](http://www.naturalearthdata.com/)
-[Lexman](http://github.com/lexman)
-[Open Knowledge Foundation](http://okfn.org/)
+- [geo-countries](https://github.com/datasets/geo-countries)
+- [Natural Earth](http://www.naturalearthdata.com/)
+- [Lexman](http://github.com/lexman)
+- [Open Knowledge Foundation](http://okfn.org/)
+
 
 ## Demo / Example Usage:
 https://codepen.io/adrian-luethi-gyminf/pen/ZEjBqdo
