@@ -8,9 +8,9 @@
 
 ## Credits / Datasource:
 [geo-countries](https://github.com/datasets/geo-countries)
-[Natural Earth][naturalearth]
-[Lexman][lexman]
-[Open Knowledge Foundation][okfn]
+[Natural Earth](naturalearth)
+[Lexman](lexman)
+[Open Knowledge Foundation](okfn)
 
 ## Demo / Example Usage:
 https://codepen.io/adrian-luethi-gyminf/pen/ZEjBqdo
