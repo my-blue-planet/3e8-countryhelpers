@@ -1,0 +1,12 @@
+{
+  "name": "3e8-countryhelpers",
+  "version": "2.0.2",
+  "description": "",
+  "main": "3e8-countryhelpers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
